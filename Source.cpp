@@ -8,6 +8,7 @@ int main()
 {
 	int q, a;
 	unsigned int n;
+	cout << "I AM King\n";
 	do {
 		cout << "Enter a positive number:\n";
 		cin >> n;
